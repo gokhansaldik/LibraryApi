@@ -1,5 +1,7 @@
 # LibraryApi
 
+Havelsan Açık Kaynak Yazılım Geliştirme dersi için oluşturulan repodur.
+
 # Postman Çıktıları
 ![getPostman](https://user-images.githubusercontent.com/98807383/198318035-1de5c514-64d2-4b73-8c37-be64800d40e5.jpg)
 ![postmanDelete](https://user-images.githubusercontent.com/98807383/198318247-84e14152-b590-43c2-abf9-a6858091a195.jpg)
