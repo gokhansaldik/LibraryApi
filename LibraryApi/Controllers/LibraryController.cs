@@ -48,7 +48,7 @@ namespace trackingapi.Controllers
             await _context.SaveChangesAsync();
             return NoContent();
         }
-        //kodda değişiklik yapıldı
+        //kodda güncellemeler yapıldı
         [HttpDelete("{id}")]
         [ProducesResponseType(StatusCodes.Status204NoContent)]
         [ProducesResponseType(StatusCodes.Status404NotFound)]
